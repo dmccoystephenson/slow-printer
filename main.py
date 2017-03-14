@@ -8,4 +8,5 @@ def slowprint(string):
 		time.sleep(.03)
 	print "\n"
 
-slowprint("Welcome to the game!")
+if __name__ == "__main__": # test if not used in another program
+	slowprint("Welcome to the game!")
