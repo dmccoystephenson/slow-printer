@@ -1,0 +1,5 @@
+
+# Browser build output (web/build_zip.py)
+web/index.html
+web/game.zip
+web/version.txt
