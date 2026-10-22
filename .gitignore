@@ -3,3 +3,7 @@
 web/index.html
 web/game.zip
 web/version.txt
+
+# Python bytecode (written when another program imports slowprint from main.py)
+__pycache__/
+*.pyc
