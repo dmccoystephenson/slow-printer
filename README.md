@@ -4,6 +4,8 @@
 
 A "Pokemon-style print function": it prints text one letter at a time, like a game's dialogue box. Run on its own it prints "Welcome to the game!"; other programs can import `slowprint` from it.
 
+![Slow Printer printing "Welcome to the game!" one letter at a time](slow-printer.gif)
+
 Written by Daniel McCoy Stephenson in March 2017, as one of his first programs. It is part of the "First Programs" collection on [danielstephenson.dev/play](https://danielstephenson.dev/play).
 
 ## Running it
