@@ -1,6 +1,6 @@
 # Slow Printer
 
-[![Play in your browser](https://img.shields.io/badge/Play-in%20your%20browser-2ea44f)](https://danielstephenson.dev/play/slow-printer)
+[![View on danielstephenson.dev](https://img.shields.io/badge/View%20on-danielstephenson.dev-2ea44f)](https://danielstephenson.dev/projects/slow-printer)
 
 A "Pokemon-style print function": it prints text one letter at a time, like a game's dialogue box. Run on its own it prints "Welcome to the game!"; other programs can import `slowprint` from it.
 
